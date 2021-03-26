@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It is a community starter kit to get started with Github
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It helps to getting started with basic working in Github Community
 
 ## Getting started
 
